@@ -12,7 +12,8 @@
     "graphql": "^0.13.2",
     "react": "^16.4.1",
     "react-apollo": "^2.1.9",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start | nodemon index.js",
